@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @husseine93
-- 👀 I’m interested in Back-end ans website
+- 👀 I’m interested in Back-end and website
 - 🌱 I’m currently learning LARAVEL, MySQL 
 - 💞️ I’m looking to collaborate on HELIOP
 - 📫 How to reach me husseine1998@gmail.com
