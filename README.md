@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @husseine93
-- 👀 I’m interested in Back-end and website
-- 🌱 I’m currently learning LARAVEL, MySQL 
-- 💞️ I’m looking to collaborate on HELIOP
+- 👀 I’m interested in Back-end and Front-end
+- 🌱 I’m currently learning LARAVEL, SPRING
+- 💞️ I’m looking to collaborate on SFR FTTH
 - 📫 How to reach me husseine1998@gmail.com
 
 <!---
