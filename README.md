@@ -2,7 +2,7 @@
 - 👀 I’m interested in Back-end and Front-end
 - 🌱 I’m currently learning LARAVEL, SPRING
 - 💞️ I’m looking to collaborate on SFR FTTH
-- 📫 How to reach me husseine1998@gmail.com
+- 📫 Reach me husseine1998@gmail.com
 
 <!---
 husseine93/husseine93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
